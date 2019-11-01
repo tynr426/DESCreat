@@ -1,0 +1,8 @@
+[package]
+name = "DESCrate"
+version = "0.1.0"
+authors = ["tynr426 <tynr426@126.com>"]
+edition = "2018"
+
+[dependencies]
+des="0.3.0"
